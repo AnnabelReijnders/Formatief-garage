@@ -1,0 +1,7 @@
+C:\Users\annab\source\repos\Oefentoets\Oefentoets\bin\Debug\Oefentoets.exe.config
+C:\Users\annab\source\repos\Oefentoets\Oefentoets\bin\Debug\Oefentoets.exe
+C:\Users\annab\source\repos\Oefentoets\Oefentoets\bin\Debug\Oefentoets.pdb
+C:\Users\annab\source\repos\Oefentoets\Oefentoets\obj\Debug\Oefentoets.csproj.AssemblyReference.cache
+C:\Users\annab\source\repos\Oefentoets\Oefentoets\obj\Debug\Oefentoets.csproj.CoreCompileInputs.cache
+C:\Users\annab\source\repos\Oefentoets\Oefentoets\obj\Debug\Oefentoets.exe
+C:\Users\annab\source\repos\Oefentoets\Oefentoets\obj\Debug\Oefentoets.pdb
